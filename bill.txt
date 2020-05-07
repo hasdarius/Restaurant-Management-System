@@ -1,0 +1,9 @@
+BILL FOR THE ORDER NUMBER: 1
+Table: 5
+Date: 2020-05-07T11:03:34.458
+Product ordered: cartofi prajiti	Price: 10.0
+Product ordered: piept de pui	Price: 9.4
+Product ordered: spaghete carbonara	Price: 26.5
+Product ordered: tagliata vita	Price: 41.0
+
+Total price to pay: 86.9
