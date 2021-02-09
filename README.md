@@ -1,2 +1,2 @@
 # Restaurant-Management-System
-A Java project that simulates a Restaurant management system.
+A Java project useful for restaurants and the management of its orders.
